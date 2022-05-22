@@ -1,0 +1,1 @@
+A folder structure for a data science project simplified from cookie cutter data science.
