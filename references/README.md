@@ -1,0 +1,1 @@
+Manuals or any other material included in the project
